@@ -1,6 +1,6 @@
 const Discord = require('discord.js')
 const DisTube = require('distube')
-require('dotenv').config()
+// require('dotenv').config()
 const fs = require('fs') 
 const client = new Discord.Client()
 const prefix = '-'
